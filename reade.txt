@@ -3,3 +3,5 @@ update2
 
 commint1 from feature1
 commit 2 from feature1
+
+commit1 after merge
