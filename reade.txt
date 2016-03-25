@@ -1,6 +1,6 @@
 addd
 update2
-
+dd
 commit in master after feature 1
 commint1 from feature1
 commit 2 from feature1
