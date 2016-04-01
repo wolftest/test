@@ -1,5 +1,9 @@
 ddd
 update2
+
+
+add new line
+
 dd
 commit in master after feature 1
 commint1 from feature1
