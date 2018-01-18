@@ -3,7 +3,7 @@ update2
 
 this is release add in master branch
 add new line
-
+add in master after merge f1
 dd
 commit in master after feature 1
 commint1 from feature1
