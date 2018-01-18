@@ -10,6 +10,7 @@ commint1 from feature1
 commit 2 from feature1
 update new in master
 this is add
+release commit 1
 commit1 after merge
 
 commit2 after merge
